@@ -57,10 +57,10 @@
 	  (ido-subdir ((t (:foreground "#CF6A4C"))))
 	  (ido-first-match ((t (:foreground "#8F9D6A"))))
 	  (ido-only-match ((t (:foreground "#8F9D6A"))))
-	  (mumamo-background-chunk-submode ((t (:background "#222222")))) 
+	  (mumamo-background-chunk-submode ((t (:background "#222222"))))
 
-	  (linum ((t (:background "#141314" :foreground "#2D2B2E"))))
-	  (hl-line ((t (:background "#212121"))))  
+	  (linum ((t (:background "#141314" :foreground "#767179"))))
+	  (hl-line ((t (:background "#212121"))))
 	  (yas/field-highlight-face ((t (:background "#27292A"))))
 
 	  (font-lock-string-face ((t (:foreground "#8F9D6A"))))
